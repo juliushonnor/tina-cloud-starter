@@ -5,7 +5,7 @@
       "color": "orange",
       "style": "float"
     },
-    "name": "Tina Starter",
+    "name": "Tina is a llama",
     "color": "default",
     "nav": [
       {
@@ -13,12 +13,12 @@
         "label": "Home"
       },
       {
-        "href": "about",
-        "label": "About"
-      },
-      {
         "href": "posts",
         "label": "Blog"
+      },
+      {
+        "href": "about",
+        "label": "About"
       }
     ]
   },
