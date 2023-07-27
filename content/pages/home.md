@@ -1,6 +1,10 @@
 ---
 title: Tina Cloud Starter
 blocks:
+  - tagline: Here's some text above the other text
+    headline: This Big Text is Totally Awesome
+    text: ''
+    _template: hero
   - headline: Welcome to the Tina Starter
     text: >
       This project is set up to show you the basics of working with Tina. You're
@@ -55,7 +59,12 @@ blocks:
     author: Phil Karlton
     color: primary
     _template: testimonial
+  - body: |
+      Text goes here
+    color: tint
+    _template: content
 ---
+
 
 
 
