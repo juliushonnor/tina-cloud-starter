@@ -1,8 +1,8 @@
 ---
 title: Tina Cloud Starter
 blocks:
-  - tagline: Here's some text above the other text
-    headline: This Big Text is Totally Awesome
+  - tagline: Surtitle
+    headline: Header
     text: ''
     _template: hero
   - headline: Welcome to the Tina Starter
@@ -64,6 +64,7 @@ blocks:
     color: tint
     _template: content
 ---
+
 
 
 
